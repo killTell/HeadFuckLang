@@ -4,3 +4,8 @@ writen by KillTell aka Gumar Arutunyan
 
 # How to start?
 $  HeadFuck.py file.hf
+
+# reading file lines
+1. open file with open(<file_name>, 'r')
+2. file_var.readlines() -> list
+   
